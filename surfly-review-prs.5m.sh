@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+# Add brew path
+PATH="$PATH:/opt/homebrew/bin/"
 
 # Set the GitHub username
 username=""
