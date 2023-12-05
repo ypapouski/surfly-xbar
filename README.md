@@ -7,6 +7,6 @@
 2. Install `jq` tool using `brew`, i.e. `brew install jq`.
 3. Copy `surfly-review-prs.5m.sh` into the `~/Library/Application Support/xbar/plugins` folder.
 4. Create a GitHub token. https://github.com/settings/tokens and put it into `surfly-review-prs.5m.sh`.
-5. Put you GitHub account into `surfly-review-prs.5m.sh`.
+5. Put your GitHub account into `surfly-review-prs.5m.sh`.
 6. Start `xbar.app`.
 7. Done!
